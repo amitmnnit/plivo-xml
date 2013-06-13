@@ -1,0 +1,3 @@
+<Response>
+    <Conference startConferenceOnEnter="false" waitSound="https://dl.dropboxusercontent.com/u/180977935/conf_speak.xml" callbackUrl='http://198.61.228.146:6265/conferencewatch/'>amit1</Conference>
+ </Response>

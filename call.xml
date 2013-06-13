@@ -1,0 +1,6 @@
+ <Response>
+    <Speak>Hello customer, your call is being redirected</Speak>
+    <Dial dialMusic="https://dl.dropboxusercontent.com/u/180977935/ring.xml" callbackUrl='http://198.61.228.146:6265/conferencewatch/'>
+    	<Number>917829623305</Number>
+	</Dial>
+ </Response>

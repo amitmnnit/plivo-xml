@@ -1,0 +1,4 @@
+ <Response>
+    <Message callbackUrl='http://198.61.228.146:5080/message/'>
+    </Message>
+ </Response>

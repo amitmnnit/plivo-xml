@@ -1,0 +1,6 @@
+<Response>
+	<Speak>hello customer, your call is being transferred.</Speak>
+	<Dial>
+		<Number>917829623305</Number>
+	</Dial>
+</Response>

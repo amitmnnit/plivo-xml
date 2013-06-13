@@ -1,0 +1,7 @@
+<Response>
+	<Speak>hello customer</Speak>
+	<Dial callerId="none" action='http://198.61.228.146:5080/action/'>
+		<User>sip:amitmnnit130323175854@phone.plivo.com</User>
+	</Dial>
+	<Speak>nothing happened, you are directed to call end</Speak>
+</Response>
